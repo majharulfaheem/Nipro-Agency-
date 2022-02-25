@@ -1,0 +1,449 @@
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+.banner{
+  padding: 40px 0px;
+  }
+.banner-in {
+  margin-top: 0px;
+}
+.banner-in h1{
+  font-size: 26px;
+}
+.banner-in p {
+  color: #ffff;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 23px;
+}
+.banner-in .btn{
+  margin-top: 20px;
+  padding: 4px 10px;
+  font-size: 13px;
+}
+.banner-in ul{
+  bottom: 7%;
+}
+.about img{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.about p {
+  font-size: 14px;
+}
+.about .btn-info {
+  padding: 7px 15px;
+  font-size: 12px;
+}
+.option ul li a{
+  padding: 5px;
+  font-size: 12px;
+}
+.in-img .mid{
+  width: 100%;
+  margin-bottom: 10px;
+}
+.choose .title{
+  padding: 40px 0px;
+}
+.in-choose{
+  margin-bottom: 20px;
+}
+.choose{
+  padding-bottom: 0px;
+}
+.us .title{
+  padding-bottom: 80px;
+}
+.pricing .title{
+  padding-bottom: 40px;
+}
+.pricing .in-price{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.pricing{
+  padding-bottom: 40px;
+}
+.bnb .btn {
+  padding: 4px 10px;
+  margin-right: 78px;
+}
+.buy p{
+  margin-left: 25px;
+}
+.textimonial{
+  padding: 40px 0px;
+}
+.d-flex{
+  padding-left: 0px;
+  padding-top: 40px;
+}
+.tes .d-flex img {
+  width: 100px;
+  height: 100px;
+}
+.d-flex .test-mid {
+  color: #969696;
+  font-size: 10px;
+  line-height: 20px;
+  margin-top: 20px;
+}
+.contact .form-btn .btn-info{
+  padding: 4px 10px;
+  font-size: 12px;
+}
+.contact{
+  padding-bottom: 40px;
+}
+.foot-top .fm{
+  font-size: 12px;
+}
+.foot-top ul li a .fa {
+  font-size: 14px;
+  padding: 5px;
+  color: #ffff;
+  margin: 0px 5px;
+}
+.footer .foot-top{
+  padding-bottom: 40px;
+}
+.footer .fl p{
+  font-size: 12px;
+  margin-left: 10px;
+}
+.footer .fl2{
+  margin-right: 20px;
+}
+.fl2 ul{
+  padding-left: 0px !important;
+}
+.fl2 ul li a {
+  margin-left: 5px;
+  font-size: 13px;
+}
+}
+
+ /*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px){
+.d-flex {
+  padding-left: 0px;
+}
+.banner{
+  padding: 40px 0px;
+  }
+.banner-in {
+  margin-top: 0px;
+}
+.banner-in h1{
+  font-size: 40px;
+}
+.banner-in p {
+  color: #ffff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}
+.banner-in .btn{
+  margin-top: 20px;
+  padding: 4px 10px;
+  font-size: 15px;
+}
+.banner-in ul{
+  bottom: 8%;
+}
+.inner-content h4{
+  font-size: 28px;
+}
+.inner-content p{
+  font-size: 24px;
+}
+.inner-content .all .btn{
+  font-size: 20px;
+}
+.inner-content{
+  margin-bottom: 30px;
+}
+.about img{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.about p {
+  font-size: 22px;
+}
+.in-img .mid {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.option ul li a{
+  font-size: 22px;
+}
+.choose .title{
+  padding-bottom: 40px;
+}
+.in-choose{
+  margin-bottom: 20px;
+}
+.choose{
+  padding-bottom: 20px;
+}
+.us .title{
+  padding: 40px 0px;
+}
+.pricing .title{
+  padding-bottom: 40px;
+}
+.pricing .in-price{
+  width: 100%;
+  margin-bottom: 30px;
+}
+.in-price{
+  text-align: center;
+}
+.buy p{
+  margin-left: 80px;
+  font-size: 20px;
+}
+.bnb .btn {
+  margin-right: 130px;
+}
+.tes .d-flex img {
+  width: 150px;
+  height: 200px;
+}
+.d-flex .test-mid {
+  font-size: 15px;
+  line-height: 25px;
+}
+.contact .form-btn .btn-info {
+  padding: 4px 15px;
+  font-size: 12px;
+}
+.foot-top ul li a .fa{
+  padding: 10px;
+  font-size: 20px;
+  margin: 0px 5px;
+}
+.footer .foot-top{
+  padding-bottom: 40px;
+}
+.footer .fl p{
+  margin-left: 40px;
+}
+.fl2 ul li a{
+  font-size: 15px;
+}
+.fl2 ul{
+  margin-right: 66px;
+}
+}
+
+/*
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px){
+.banner{
+  padding: 40px 0px;
+}
+.banner-in {
+  margin-top: 0px;
+}
+.banner-in p{
+  font-size: 14px;
+  line-height: 24px;
+}
+.feature p{
+  font-size: 18px;
+  line-height: 28px;
+}
+.inner-content h4{
+  font-size: 35px;
+}
+.inner-content p{
+  font-size: 30px;
+}
+.inner-content{
+  margin-bottom: 30px;
+}
+.about img{
+  width: 100%;
+  margin-bottom: 30px;
+}
+.about h3{
+  font-size: 35px;
+}
+.about p{
+  font-size: 18px;
+  line-height: 29px;
+}
+.option ul li a{
+  font-size: 20px;
+}
+.in-img .mid{
+  width: 100%;
+  margin-bottom: 20px;
+}
+.choose .title{
+  padding-bottom: 50px;
+}
+.title h3{
+  font-size: 35px;
+}
+.in-choose{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.in-choose ul li{
+  font-size: 24px;
+}
+.in-choose p{
+  font-size: 24px;
+}
+.choose{
+  padding-bottom: 40px;
+}
+.card h5{
+  font-size: 30px;
+}
+.card p{
+  font-size: 25px;
+}
+.pricing .in-price{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.in-price ul li{
+  font-size: 26px;
+}
+.in-price p{
+  font-size: 20px;
+}
+.buy p{
+  font-size: 25px;
+}
+.bnb .btn{
+  margin-top: -88px;
+  padding: 10px 40px;
+  font-size: 20px;
+}
+.d-flex{
+  padding-left: 0px;
+}
+.d-flex .test-mid{
+  font-size: 18px;
+  line-height: 28px;
+}
+.tes .d-flex img{
+  width: 200px;
+  height: 250px;
+}
+.footer .foot-top{
+  padding-bottom: 40px;
+}
+.footer .fl p{
+  font-size: 18px;
+  margin-left: 130px;
+}
+.footer .fl2 {
+  text-align: center;
+  margin-right: 50px;
+}
+}
+
+/*
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px){
+  .feature h3{
+    font-size: 35px;
+  }
+  .feature p{
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .inner-content p{
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .inner-content .all .btn{
+    font-size: 20px;
+  }
+  .about h3{
+    font-size: 30px;
+  }
+  .about p {
+  color: #a5a5a5;
+  font-size: 22px;
+  line-height: 32px;
+}
+.title h3{
+  font-size: 35px;
+}
+.option ul li a{
+  font-size: 25px;
+}
+.in-choose ul li{
+  font-size: 22px;
+}
+.in-choose p{
+  font-size: 22px;
+  line-height: 32px;
+}
+.us .card img{
+  height: 260px;
+}
+.us .ray{
+  padding-bottom: 24px;
+}
+.pricing .in-price{
+  width: 100%;
+}
+.in-price span{
+  font-size: 36px;
+}
+.in-price .btn-info{
+  padding: 5px 35px;
+}
+.buy p{
+  font-size: 25px;
+  text-align: center;
+}
+.bnb .btn{
+  padding: 10px 30px;
+  font-size: 16px;
+  margin-right: 45px;
+}
+.d-flex{
+  padding-left: 50px;
+}
+.d-flex h5{
+  font-size: 30px
+}
+.d-flex .coo{
+ font-size: 20px;
+}
+.d-flex h6{
+ font-size: 18px;
+}
+.d-flex .test-mid{
+  font-size: 23px;
+  line-height: 33px;
+}
+form{
+  width: 50%;
+}
+.footer .foot-top{
+  padding: 60px;
+}
